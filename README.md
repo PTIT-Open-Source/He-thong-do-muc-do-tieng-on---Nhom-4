@@ -1,5 +1,5 @@
 # 🔌 Hệ thống đo mức độ tiếng ồn trong khu vực đô thị
-
+# Người làm chính: Nguyễn Bá Việt Hoàng - B21DCDT100
 > Dự án xây dựng một hệ thống giám sát tiếng ồn sử dụng cảm biến âm thanh và mạng truyền thông LoRa. Hệ thống gồm ba node: thu thập, truyền và lưu trữ dữ liệu âm thanh môi trường. Dữ liệu được lưu trên thẻ microSD và đồng thời gửi lên nền tảng IoT Adafruit.io để hiển thị. Dự án phục vụ mục đích nghiên cứu và giáo dục, hướng đến việc ứng dụng công nghệ IoT trong giám sát ô nhiễm tiếng ồn đô thị.
 ---
 
